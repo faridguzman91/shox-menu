@@ -1,2 +1,1 @@
-export { default }
-from './Burger';
+export { default } from './Burger';
